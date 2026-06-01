@@ -1,0 +1,13 @@
+{
+  "name": "xinqing-youth-ai",
+  "version": "1.0.0",
+  "description": "心晴少年AI - 青少年心理健康智能助手平台",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": ["ai", "mental-health", "youth", "psychology", "chatbot", "healthcare"],
+  "author": "XinQing Youth AI Team",
+  "license": "MIT"
+}
